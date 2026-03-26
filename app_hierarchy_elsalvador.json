@@ -1,0 +1,384 @@
+{
+    "AHUACHAPAN": {
+        "AHUACHAP\u00c1N CENTRO": [
+            "AHUACHAPAN",
+            "APANECA",
+            "CONCEPCION DE ATACO",
+            "TACUBA"
+        ],
+        "AHUACHAP\u00c1N NORTE": [
+            "ATIQUIZAYA",
+            "EL REFUGIO",
+            "SAN LORENZO",
+            "TURIN"
+        ],
+        "AHUACHAP\u00c1N SUR": [
+            "GUAYMANGO",
+            "JUJUTLA",
+            "SAN FRANCISCO MENENDEZ",
+            "SAN PEDRO PUXTLA"
+        ]
+    },
+    "SANTA ANA": {
+        "SANTA ANA CENTRO": [
+            "SANTA ANA"
+        ],
+        "SANTA ANA ESTE": [
+            "COATEPEQUE",
+            "EL CONGO"
+        ],
+        "SANTA ANA NORTE": [
+            "MASAHUAT",
+            "METAPAN",
+            "SANTA ROSA GUACHIPILIN",
+            "TEXISTEPEQUE"
+        ],
+        "SANTA ANA OESTE": [
+            "CANDELARIA DE LA FRONTERA",
+            "CHALCHUAPA",
+            "EL PORVENIR",
+            "SAN ANTONIO PAJONAL",
+            "SAN SEBASTIAN SALITRILLO",
+            "SANTIAGO DE LA FRONTERA"
+        ],
+        "CUSCATL\u00c1N SUR": [
+            "CANDELARIA",
+            "COJUTEPEQUE",
+            "EL CARMEN",
+            "EL ROSARIO CUSCATLAN",
+            "MONTE SAN JUAN",
+            "SAN CRISTOBAL",
+            "SAN RAFAEL CEDROS",
+            "SAN RAMON",
+            "SANTA CRUZ MICHAPA",
+            "TENANCINGO"
+        ]
+    },
+    "SONSONATE": {
+        "SONSONATE CENTRO": [
+            "NAHULINGO",
+            "SAN ANTONIO DEL MONTE",
+            "SANTO DOMINGO DE GUZMAN",
+            "SONSONATE",
+            "SONZACATE"
+        ],
+        "SONSONATE ESTE": [
+            "ARMENIA",
+            "CALUCO",
+            "CUISNAHUAT",
+            "SANTA ISABEL ISHUATAN",
+            "IZALCO",
+            "SAN JULIAN"
+        ],
+        "SONSONATE NORTE": [
+            "JUAYUA",
+            "NAHUIZALCO",
+            "SALCOATITAN",
+            "SANTA CATARINA MASAHUAT"
+        ],
+        "SONSONATE OESTE": [
+            "ACAJUTLA"
+        ]
+    },
+    "CHALATENANGO": {
+        "CHALATENANGO CENTRO": [
+            "AGUA CALIENTE",
+            "DULCE NOMBRE DE MARIA",
+            "EL PARAISO",
+            "LA REINA",
+            "NUEVA CONCEPCION",
+            "SAN FERNANDO",
+            "SAN FRANCISCO MORAZAN",
+            "SAN RAFAEL",
+            "SANTA RITA",
+            "TEJUTLA"
+        ],
+        "CHALATENANGO NORTE": [
+            "CITALA",
+            "LA PALMA",
+            "SAN IGNACIO"
+        ],
+        "CHALATENANGO SUR": [
+            "ARCATAO",
+            "AZACUALPA",
+            "COMALAPA",
+            "CONCEPCION QUEZALTEPEQUE",
+            "CHALATENANGO",
+            "EL CARRIZAL",
+            "LA LAGUNA",
+            "LAS VUELTAS",
+            "NOMBRE DE JESUS",
+            "NUEVA TRINIDAD",
+            "OJOS DE AGUA",
+            "POTONICO",
+            "SAN ANTONIO DE LA CRUZ",
+            "SAN ANTONIO LOS RANCHOS",
+            "SAN FRANCISCO LEMPA",
+            "SAN ISIDRO LABRADOR",
+            "CANCASTE",
+            "SAN JOSE LAS FLORES",
+            "SAN LUIS DEL CARMEN",
+            "SAN MIGUEL DE MERCEDES"
+        ],
+        "NaN": [
+            "nan"
+        ]
+    },
+    "LA LIBERTAD": {
+        "LA LIBERTAD CENTRO": [
+            "CIUDAD ARCE",
+            "SAN JUAN OPICO"
+        ],
+        "LA LIBERTAD COSTA": [
+            "JICALAPA",
+            "LA LIBERTAD",
+            "TAMANIQUE",
+            "TEOTEPEQUE"
+        ],
+        "LA LIBERTAD ESTE": [
+            "ANTIGUO CUSCATLAN",
+            "HUIZUCAR",
+            "NUEVO CUSCATLAN",
+            "SAN JOSE VILLANUEVA",
+            "ZARAGOZA"
+        ],
+        "LA LIBERTAD NORTE": [
+            "CHILTIUPAN",
+            "QUEZALTEPEQUE",
+            "SAN MATIAS",
+            "SAN PABLO TACACHICO"
+        ],
+        "LA LIBERTAD OESTE": [
+            "COLON",
+            "JAYAQUE",
+            "SACACOYO",
+            "TALNIQUE",
+            "TEPECOYO"
+        ],
+        "LA LIBERTAD SUR": [
+            "COMASAGUA",
+            "SANTA TECLA"
+        ]
+    },
+    "SAN SALVADOR": {
+        "SAN SALVADOR CENTRO": [
+            "AYUTUXTEPEQUE",
+            "CUSCATANCINGO",
+            "MEJICANOS",
+            "SAN SALVADOR",
+            "CIUDAD DELGADO"
+        ],
+        "SAN SALVADOR ESTE": [
+            "ILOPANGO",
+            "SAN MARTIN",
+            "SOYAPANGO",
+            "TONACATEPEQUE"
+        ],
+        "SAN SALVADOR NORTE": [
+            "AGUILARES",
+            "EL PAISNAL",
+            "GUAZAPA"
+        ],
+        "SAN SALVADOR OESTE": [
+            "APOPA",
+            "NEJAPA"
+        ],
+        "SAN SALVADOR SUR": [
+            "PANCHIMALCO",
+            "ROSARIO DE MORA",
+            "SAN MARCOS",
+            "SANTIAGO TEXACUANGOS",
+            "SANTO TOMAS"
+        ]
+    },
+    "CUSCATLAN": {
+        "CUSCATL\u00c1N NORTE": [
+            "ORATORIO DE CONCEPCION",
+            "SAN BARTOLOME PERULAPIA",
+            "SAN JOSE GUAYABAL",
+            "SAN PEDRO PERULAPAN",
+            "SANTA CRUZ ANALQUITO",
+            "SUCHITOTO"
+        ],
+        "LA PAZ \u00a0 CENTRO": [
+            "EL ROSARIO",
+            "JERUSALEN",
+            "MERCEDES LA CEIBA",
+            "PARAISO DE OSORIO",
+            "SAN ANTONIO MASAHUAT",
+            "SAN EMIGDIO",
+            "SAN JUAN TEPEZONTES",
+            "SAN MIGUEL TEPEZONTES",
+            "SAN PEDRO NONUALCO",
+            "SANTA MARIA OSTUMA",
+            "SANTIAGO NONUALCO",
+            "SAN LUIS LA HERRADURA"
+        ]
+    },
+    "LA PAZ": {
+        "LA PAZ ESTE": [
+            "SAN JUAN NONUALCO",
+            "SAN RAFAEL OBRAJUELO",
+            "ZACATECOLUCA"
+        ],
+        "LA PAZ OESTE": [
+            "CUYULTITAN",
+            "OLOCUILTA",
+            "SAN FRANCISCO CHINAMECA",
+            "SAN JUAN TALPA",
+            "SAN LUIS TALPA",
+            "SAN PEDRO MASAHUAT",
+            "TAPALHUACA"
+        ],
+        "SAN MIGUEL OESTE": [
+            "CHINAMECA",
+            "EL TRANSITO",
+            "LOLOTIQUE",
+            "NUEVA GUADALUPE",
+            "SAN JORGE",
+            "SAN RAFAEL ORIENTE"
+        ]
+    },
+    "CABA\u00d1AS": {
+        "CABA\u00d1AS ESTE": [
+            "GUACOTECTI",
+            "SAN ISIDRO",
+            "SENSUNTEPEQUE",
+            "VICTORIA",
+            "DOLORES"
+        ],
+        "CABA\u00d1AS OESTE": [
+            "CINQUERA",
+            "ILOBASCO",
+            "JUTIAPA",
+            "TEJUTEPEQUE"
+        ]
+    },
+    "SAN VICENTE": {
+        "SAN VICENTE NORTE": [
+            "APASTEPEQUE",
+            "SANTA CLARA",
+            "SANTO DOMINGO",
+            "SAN ESTEBAN CATARINA",
+            "SAN ILDEFONSO",
+            "SAN LORENZO",
+            "SAN SEBASTIAN"
+        ],
+        "SAN VICENTE SUR": [
+            "GUADALUPE",
+            "SAN CAYETANO ISTEPEQUE",
+            "SAN VICENTE",
+            "TECOLUCA",
+            "TEPETITAN",
+            "VERAPAZ"
+        ]
+    },
+    "USULUTAN": {
+        "USULUT\u00c1N ESTE": [
+            "CALIFORNIA",
+            "CONCEPCION BATRES",
+            "EREGUAYQUIN",
+            "JUCUARAN",
+            "OZATLAN",
+            "SAN DIONISIO",
+            "SANTA ELENA",
+            "SANTA MARIA",
+            "TECAPAN",
+            "USULUTAN"
+        ],
+        "USULUT\u00c1N NORTE": [
+            "ALEGRIA",
+            "BERLIN",
+            "EL TRIUNFO",
+            "ESTANZUELAS",
+            "JUCUAPA",
+            "MERCEDES UMA\u00d1A",
+            "NUEVA GRANADA",
+            "SAN BUENAVENTURA",
+            "SANTIAGO DE MARIA"
+        ],
+        "USULUT\u00c1N OESTE": [
+            "JIQUILISCO",
+            "PUERTO EL TRIUNFO",
+            "SAN AGUSTIN",
+            "SAN FRANCISCO JAVIER"
+        ]
+    },
+    "SAN MIGUEL": {
+        "SAN MIGUEL CENTRO": [
+            "COMACARAN",
+            "CHIRILAGUA",
+            "MONCAGUA",
+            "QUELEPA",
+            "SAN MIGUEL",
+            "ULUAZAPA"
+        ],
+        "SAN MIGUEL NORTE": [
+            "CAROLINA",
+            "CIUDAD BARRIOS",
+            "CHAPELTIQUE",
+            "NUEVO EDEN DE SAN JUAN",
+            "SAN ANTONIO DEL MOSCO",
+            "SAN GERARDO",
+            "SAN LUIS DE LA REINA",
+            "SESORI"
+        ]
+    },
+    "MORAZAN": {
+        "MORAZ\u00c1N NORTE": [
+            "ARAMBALA",
+            "CACAOPERA",
+            "CORINTO",
+            "EL ROSARIO",
+            "MORAZAN",
+            "JOATECA",
+            "JOCOAITIQUE",
+            "MEANGUERA",
+            "PERQUIN",
+            "SAN FERNANDO MORAZAN",
+            "SAN ISIDRO MORAZAN",
+            "TOROLATOROLA"
+        ],
+        "MORAZ\u00c1N SUR": [
+            "CHILANGA",
+            "DELICIAS DE CONCEPCION",
+            "EL DIVISADERO",
+            "GUALOCOCTI",
+            "GUATAJIAGUA",
+            "JOCORO",
+            "LOLOTIQUILLO",
+            "OSICALA",
+            "SAN CARLOS",
+            "SAN FRANCISCO GOTERA",
+            "SAN SIMON",
+            "SENSEMBRA",
+            "SOCIEDAD",
+            "YAMABAL",
+            "YOLOAIQUIN"
+        ]
+    },
+    "LA UNION": {
+        "LA UNI\u00d3N NORTE": [
+            "ANAMOROS",
+            "BOLIVAR",
+            "CONCEPCION DE ORIENTE",
+            "EL SAUCE",
+            "LISLIQUE",
+            "NUEVA ESPARTA",
+            "PASAQUINA",
+            "POLOROS",
+            "SAN JOSE",
+            "SANTA ROSA DE LIMA"
+        ],
+        "LA UNI\u00d3N SUR": [
+            "CONCHAGUA",
+            "EL CARMEN",
+            "INTIPUCA",
+            "LA UNION",
+            "MEANGUERA DEL GOLFO",
+            "SAN ALEJO",
+            "YAYANTIQUE",
+            "YUCUAIQUIN"
+        ]
+    }
+}
