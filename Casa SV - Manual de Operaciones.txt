@@ -1,0 +1,97 @@
+Casa SV - Manual de Operaciones
+🚀 PLATAFORMA EN VIVO
+URL Oficial: https://bienraiz.space
+---
+✅ Estado de Funcionalidades
+🟢 OPERATIVAS (Listas para usar)
+Funcionalidad	Estado	Descripción
+Página Principal	✅ Activa	Hero, búsqueda, propiedades destacadas
+Búsqueda de Propiedades	✅ Activa	Filtros avanzados, vista grid/lista/mapa
+Detalle de Propiedad	✅ Activa	Galería, características, contacto
+Login/Registro	✅ Activa	Email, Google, Facebook
+Calculadora Hipotecaria	✅ Activa	Estimación de cuotas con bancos SV
+Mapa Interactivo	✅ Activa	Leaflet con ubicaciones de propiedades
+Sistema de Subastas	✅ Activa	Pujas desde $1 dólar
+Enlaces Útiles	✅ Activa	Bancos, cooperativas, alcaldías, servicios
+Modo Oscuro/Claro	✅ Activo	Toggle de tema
+Diseño Responsive	✅ Activo	Móvil, tablet, desktop
+🟡 EN DESARROLLO (Próximamente)
+Funcionalidad	ETA	Descripción
+Directorio de Agentes	Marzo 2026	Perfiles de agentes certificados
+Inmobiliarias	Marzo 2026	Directorio de empresas
+Mapa Completo	Diciembre 2026	Todas las propiedades en mapa
+Mis Favoritos	Diciembre 2026	Guardar propiedades
+Panel de Control	Marzo 2026	Gestión para agentes
+Notificaciones	Marzo 2026	Alertas de nuevas propiedades
+---
+🔐 Acceso Administrador
+Email: bolsadesegurosv@gmail.com  
+Contraseña: 9999999Dem
+Teléfono: +503 6191-5295  
+Tipo: Agente / Administrador
+---
+💰 Información de Facturación
+Datos Bancarios
+·	Banco: Banco Agrícola
+·	Cuenta: 001480723838
+·	Tipo: Cuenta de Ahorro
+·	País: El Salvador
+Datos Fiscales
+·	NCR: 310069-9
+·	Ministerio: Ministerio de Hacienda
+·	Tipo Documento: Crédito Fiscal
+·	Clasificación: Servicios N.C.P.
+---
+📊 Estadísticas de Lanzamiento
+·	Propiedades Activas: 12+ de ejemplo
+·	Departamentos Cubiertos: 14 (100%)
+·	Distritos en Base de Datos: 262 (100%)
+·	Municipios Base de Datos: 44 (100%)
+·	Bancos Enlazados: 8
+·	Cooperativas Enlazadas: 8
+·	Alcaldías Enlazadas: 14
+---
+📱 Guía de Uso Rápido
+Para Compradores
+·	Entrar a https://bienraiz.space
+·	Usar la barra de búsqueda o explorar propiedades destacadas
+·	Filtrar por tipo, precio, ubicación
+·	Ver detalle de propiedad con galería y mapa
+·	Contactar agente vía WhatsApp o formulario
+Para Vendedores
+1.	Registrarse en "Registrarse" → seleccionar "usuario Vendedor"
+2.	Completar perfil
+3.	(Próximamente) Publicar propiedad desde Panel de Control
+Para Usuario Agentes
+1.	Login con credenciales de administrador
+2.	Acceder a funcionalidades de agente
+3.	Gestionar propiedades y contactos
+---
+🔗 Enlaces Importantes Integrados
+Bancos
+·	Banco Agrícola, Cuscatlán, Davivienda, BAC,  etc.
+Cooperativas
+·	A nivel nacional
+Servicios Públicos
+·	ANDA (agua), CAESS/CEL/AES (electricidad)
+Gobierno
+·	Mi Portal Hacienda, CNR, FONAVIPO, OPAMSS
+---
+📞 Soporte y Contacto
+Email: bolsadesegurosv@gmail.com  
+Teléfono: +503 6191-5295  
+WhatsApp: +503 6191-5295
+---
+🔄 Próximas Actualizaciones
+1.	Diciembre 2026: Mapa completo, favoritos, perfil de usuario
+2.	Enero 2027: Directorio de agentes e inmobiliarias
+3.	Febrero 2027: Panel de control completo, notificaciones
+4.	Marzo 2027: App móvil PWA, pagos en línea
+---
+⚠️ Notas Importantes
+·	La plataforma está en modo de operaciones iniciales
+·	Las propiedades mostradas son de demostración
+·	Para publicar propiedades reales, contactar al administrador
+·	Todas las transacciones se procesan según leyes de El Salvador
+---
+© 2025 Casa SV - Todos los derechos reservados

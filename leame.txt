@@ -1,0 +1,71 @@
+Casa SV - Portal de Bienes Raíces de El Salvador
+![CasaSV](https://img.shields.io/badge/Casa%20SV-Operaciones%20en%20Vivo-green)
+![Versión](https://img.shields.io/badge/Versión-1.0.0-blue)
+![Estado](https://img.shields.io/badge/Estado-Producción-success)
+🚀 Plataforma en Vivo
+🔗 URL: https://bienraiz.space
+---
+📋 Descripción
+Casa SV es el portal líder de bienes raíces en El Salvador, conectando usuarios compradores, agentes vendedores e inmobiliarias en los 262 distritos del país, 14 departamentos, 44 municipios.
+✨ Características Principales
+🏡 Búsqueda Avanzada - Filtros por tipo, precio, ubicación, características
+🗺️ Mapa Interactivo - Visualización de propiedades con Leaflet
+💰 Subastas - Pujas desde $4 dólar
+🏦 Calculadora Hipotecaria - Estimación de cuotas con bancos de El Salvador
+🔗 Enlaces Útiles - Bancos, cooperativas, alcaldías, servicios públicos
+🌙 Modo Oscuro - Tema claro/oscuro
+📱 Responsive - Optimizado para móvil, tablet y desktop
+---
+🛠️ Tecnologías
+·	Frontend: React + TypeScript + Vite
+·	Estilos: Tailwind CSS + shadcn/ui
+·	Estado: Zustand
+·	Mapas: Leaflet + React-Leaflet + google earth 
+·	Iconos: Lucide React
+---
+📁 Estructura del Proyecto
+```
+app/
+├── src/
+│   ├── components/     # Componentes reutilizables
+│   ├── pages/         # Páginas principales
+│   ├── data/          # Datos (propiedades, distritos, enlaces)
+│   ├── store/         # Estado global (auth)
+│   ├── hooks/         # Custom hooks
+│   └── types/         # Tipos TypeScript
+├── public/            # Assets estáticos
+└── dist/             # Build de producción
+```
+---
+🚀 Comandos
+```bash
+# Instalar dependencias
+npm install
+
+# Desarrollo
+npm run dev
+
+# Build producción
+npm run build
+
+# Preview build
+npm run preview
+```
+---
+👥 Cuentas de Demo
+Email	Contraseña	Tipo
+bolsadesegurosv@gmail.com	9999999dem	Administrador
+agente@demo.com	demo123	Usuario Agente
+comprador@demo.com	demo123	cliente Comprador
+vendedor@demo.com	demo123	Usuario Vendedor
+---
+💳 Información de Facturación
+·	Banco: Banco Agrícola
+·	Cuenta: 001480723838
+·	NCR: 310069-9
+---
+📞 Contacto
+Email: bolsadesegurosv@gmail.com Tweeter: https://x.com/SvCasa62376
+Teléfono: +503 6191-5295
+---
+© 2026 bienraiz.space
